@@ -99,3 +99,57 @@ footer {
 .info {
 	text-align: center;
 }
+
+#resul {
+	text-align: center;
+	margin-left: 0;
+	border-bottom: 1px solid black;
+}
+
+h2 {
+	text-align: center;
+	margin-left: 15;
+	font-family: "Comic Sans MS"; 
+	border-bottom: 1px solid black;
+	padding-bottom: 5px;
+}
+
+h3 {
+	text-align: left;
+	font-family: "Comic Sans MS"; 
+}
+
+h4 {text-align: left;
+	font-family: "Comic Sans MS"; 
+}
+
+#comp ul {
+	margin-left: 0;
+}
+#comp {
+	padding-bottom: 5px;
+}
+h5 {
+	text-align: left;
+	font-family: "Comic Sans MS"; 
+}
+
+#work ul {
+	margin-left: 0;
+}
+
+#work {
+	padding-bottom: 5px;
+}
+
+#act ul {
+	margin-left: 0;
+}
+
+#vol ul {
+	margin-left: 0;
+}
+
+#vol {
+	padding-bottom: 50px;
+}
