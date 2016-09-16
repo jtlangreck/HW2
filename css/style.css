@@ -1,0 +1,101 @@
+
+
+body { 
+	background-color:Ivory;
+	font-family: "Comic Sans MS"; 
+	text-align: center;
+	width: 80%;
+	margin-left: 9%;
+	height: 400px;
+	padding: 15px;
+	display: inline-block;
+	}
+
+h1 {
+	padding-bottom: 5px;
+	border-bottom: 1px solid black;
+}
+	
+#cent {
+	text-align: center;
+	padding: 5px;
+}
+
+body ul {
+	margin-left: 43%;
+	text-align: left;
+}
+
+#right {
+	margin-right: 0px;
+	margin-bottom: 7%;
+	float: right;
+}
+
+#left {
+	margin-left: 0;
+	margin-bottom: 7%;
+	float: left;
+}
+
+.pic {
+	border: solid 1px black; 
+	background: white;
+	text-align:center;
+	width: 300px;
+	padding: 20px;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+	
+
+#menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+	position: fixed;
+	left: 0;
+	top: 0;
+    width: 100%;
+	text-align: center;
+	border-bottom: 3px solid rgb(255,215,0) ;
+}
+
+.mi {
+    display:inline;	
+}
+
+.mi a {
+    display: inline-block;
+    color: white; 
+    text-align: center; 
+    padding: 14px 16px;  
+    text-decoration: none; 
+    font-family: "Comic Sans", Comic Sans MS, cursive;
+	font-size: 12px;
+}
+
+li a:hover {
+	background-color: rgb(255,215,0);
+	color: black;
+	
+	}
+	
+footer {
+	position: fixed;
+	bottom: 0px;
+	left: 0px;
+	background-color: black;
+	width: 100%;
+	color: white;
+	text-align: center;
+	height: 40px;
+	padding-bottom: 10px;
+	border-top: 4px solid rgb(255,215,0);
+	}
+	
+.info {
+	text-align: center;
+}
